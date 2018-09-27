@@ -1,4 +1,13 @@
 theme: minima
+
+title: Awesome title
+description: > # this means to ignore newlines until "twitter_username:"
+  Awesome description.
+
 twitter_username: D3C4P5
 github_username:  slelorrain
 rss: rss
+
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
