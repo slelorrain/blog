@@ -1,13 +1,15 @@
 theme: minima
-show_excerpts: true
+author: Author
 
 title: Awesome title
 description: > # this means to ignore newlines until "twitter_username:"
-  Awesome description.
+  Awesome description
 
 twitter_username: D3C4P5
 github_username: slelorrain
 rss: rss
+
+show_excerpts: true
 
 plugins:
 - jekyll-feed
