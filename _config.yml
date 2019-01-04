@@ -1,13 +1,13 @@
 theme: minima
-author: Author
+author: Simon Lelorrain
 
-title: Awesome title
+title: 101010
 description: > # this means to ignore newlines until "twitter_username:"
-  Awesome description
+  Another useless weblog
 
 twitter_username: D3C4P5
 github_username: slelorrain
-rss: rss
+rss: RSS
 
 show_excerpts: true
 
