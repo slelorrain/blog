@@ -1,9 +1,8 @@
 theme: minima
 author: Simon Lelorrain
 
-title: 101010
-description: > # this means to ignore newlines until "twitter_username:"
-  Another useless weblog
+title: '101010'
+description: 'Another useless weblog.'
 
 twitter_username: D3C4P5
 github_username: slelorrain
